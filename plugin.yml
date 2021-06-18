@@ -1,0 +1,7 @@
+name: Tr-ShowCoordinates
+api: [3.0.0]
+main: TrueToneTeam\ShowCoordinates\ShowCoordinates
+version: "1.0.0"
+author: Luna
+
+mcpe-protocol: [440]
